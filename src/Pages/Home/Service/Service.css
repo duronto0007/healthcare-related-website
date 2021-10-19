@@ -1,0 +1,9 @@
+.service{
+    background-color:rgb(226, 241, 241);
+    border-radius: 50px
+}
+
+.bg-cover{
+    width:340px;
+    border-radius:20px;
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nane": "Self Defense",
+    "price": 1200,
+    "durition": "Three Month",
+    "img": "https://i.ibb.co/WWcbvCg/Self-Defense.jpg"
+  },
+  {
+    "id": 2,
+    "nane": "Fitness for Men",
+    "price": 2200,
+    "durition": "Four Month",
+    "img": "https://i.ibb.co/DkBHrCR/Fitness-for-Men.jpg"
+  },
+  {
+    "id": 3,
+    "nane": "Strength Training",
+    "price": 1500,
+    "durition": "Five Month",
+    "img": "https://i.ibb.co/xCHn9C0/Strength-Training.jpg"
+  },
+  {
+    "id": 4,
+    "nane": "Boxing For Men",
+    "price": 3000,
+    "durition": "One Year",
+    "img": "https://i.ibb.co/JddvJMZ/Boxing-For-Men.jpg"
+  },
+  {
+    "id": 5,
+    "nane": "Cardio For Men",
+    "price": 1000,
+    "durition": "Three Month",
+    "img": "https://i.ibb.co/QYwv8Rg/Cardio-For-Men.jpg"
+  },
+  {
+    "id": 6,
+    "nane": "Weight Lifting",
+    "price": 1500,
+    "durition": "Five Month",
+    "img": "https://i.ibb.co/9YgCprw/Weight-Lifting-6.jpg"
+  }
+]
